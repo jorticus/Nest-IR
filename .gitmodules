@@ -1,0 +1,6 @@
+[submodule "libraries/HeatpumpIR"]
+	path = libraries/HeatpumpIR
+	url = https://github.com/ToniA/arduino-heatpumpir.git
+[submodule "libraries/IRLib2"]
+	path = libraries/IRLib2
+	url = https://github.com/cyborg5/IRLib2.git
